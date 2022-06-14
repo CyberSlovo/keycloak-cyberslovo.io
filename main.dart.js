@@ -30802,7 +30802,7 @@ s=A.a3P("Flutter Demo Home Page",q)
 return new A.r6(new A.ov(s,new A.Ek(q,q,1/0,56),q),A.Iq(A.abb(A.a([B.Gg,A.a3P(r.e,A.bc(b).R8.e)],t.F),B.Aa),q,q),A.a2m(B.wC,!1,r.gLX()),q)},
 jV(){var s=0,r=A.Z(t.z),q
 var $async$jV=A.a_(function(a,b){if(a===1)return A.W(b,r)
-while(true)switch(s){case 0:q=A.rV("https://cyberslovo.app:1443/auth/realms/Google/protocol/openid-connect/auth?response_type=code&client_id=account&redirect_uri=https://cyberslovo.app:1443/auth/realms/Google/broker/google/endpoint&returnTo=https://cyberslovo.github.io/keycloak.github.io/",0,null)
+while(true)switch(s){case 0:q=A.rV("https://cyberslovo.app:1443/auth/realms/Google/protocol/openid-connect/auth?response_type=code&client_id=account&redirect_uri=https://cyberslovo.app:1443/auth/realms/Google/broker/google/endpoint&returnTo=https://cyberslovo.github.io/keycloak.gihub.io/#/",0,null)
 s=5
 return A.a0(A.Ym(q),$async$jV)
 case 5:s=b?2:4
@@ -30845,7 +30845,7 @@ var $async$$1=A.a_(function(b,c){if(b===1)return A.W(c,r)
 while(true)switch(s){case 0:s=a?2:3
 break
 case 2:s=4
-return A.a0(A.H0(A.rV("https://cyberslovo.github.io/keycloak.github.io/",0,null)),$async$$1)
+return A.a0(A.H0(A.rV("https://cyberslovo.github.io/keycloak.gihub.io/#/",0,null)),$async$$1)
 case 4:case 3:return A.X(null,r)}})
 return A.Y($async$$1,r)},
 $S:129}
